@@ -4,35 +4,29 @@
 ###### Responsiv -
 
 ------------솔루션----------
-위프(weep), (진행중)
-(weep2020.cafe24.com/jobs0514.html) - // 작업 index (진행중)
 
-메드포칼릭 리뉴얼
-(code.d2.co.kr/madforgarlic/app) - // 작업 index (모바일 app, 휴대폰 인증내역)
+- [weep](http://weep2020.cafe24.com/jobs0514.html/)   (진행중)
 
-ebm센터
-(ebm2019.cafe24.com/ebmLists.php)- // 작업 index (모바일)
+- [메드포갈릭](http://code.d2.co.kr/madforgarlic/app/) 
 
-짐핏 솔루션
-(gymfit9.cafe24.com)
+- [ebm센터](http://ebm2019.cafe24.com/ebmLists.php) 
+
+- [짐핏솔루션](http://gymfit9.cafe24.com) 
+
 
 ------------//솔루션----------
 
 ----------- 웹 접근성 인증-------
 
-mbc 아카데미 사이버 평생교육원
-(www.brstudy.net/main)
+- [mbc 아카데미 사이버 평생교육원](http://www.brstudy.net/main) 
 
-mbc 아카데미 원격 교육원
-(http://www.kedui.net)
+- [mbc 아카데미 원격 교육원](http://www.kedui.ne) 
 
 // 접근성 가이드라인은 기타문서에 첨부하였습니다.
 
 
 ----------- //웹 접근성 인증-------
 
-
-== 포트폴리오 설명입니다 ==
 
 - [ESMO](http://nepesamc.gabia.io/)  
 
