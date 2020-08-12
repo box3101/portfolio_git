@@ -5,7 +5,7 @@
 
 ------------솔루션----------
 
-- [weep](http://weep2020.cafe24.com/jobs0514.html/)   (진행중)
+- [weep](http://weep2020.cafe24.com/weep0514.html)   (진행중)
 
 - [메드포갈릭](http://code.d2.co.kr/madforgarlic/app/) 
 
