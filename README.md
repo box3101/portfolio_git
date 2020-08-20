@@ -7,8 +7,6 @@
 
 - [weep](http://weep2020.cafe24.com/weep0514.html)   (진행중)
 
-- [메드포갈릭](http://code.d2.co.kr/madforgarlic/app/) 
-
 - [ebm센터](http://ebm2019.cafe24.com/ebmLists.php) 
 
 - [짐핏솔루션](http://gymfit9.cafe24.com) 
