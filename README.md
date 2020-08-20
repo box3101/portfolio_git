@@ -3,18 +3,8 @@
 
 ###### Responsiv -
 
-------------솔루션----------
 
-- [weep](http://weep2020.cafe24.com/weep0514.html)   (진행중)
-
-- [ebm센터](http://ebm2019.cafe24.com/ebmLists.php) 
-
-- [짐핏솔루션](http://gymfit9.cafe24.com) 
-
-
-------------//솔루션----------
-
------------ 웹 접근성 인증-------
+----------- 웹 접근성 인증------- (기존사이트에 접근성 작업만 진행했습니다.)
 
 - [mbc 아카데미 사이버 평생교육원](http://www.brstudy.net/main) 
 
@@ -25,6 +15,11 @@
 
 ----------- //웹 접근성 인증-------
 
+- [weep](http://weep2020.cafe24.com/weep0514.html)   (진행중)
+
+- [ebm센터](http://ebm2019.cafe24.com/ebmLists.php) - mobile
+
+- [짐핏솔루션](http://gymfit9.cafe24.com) pc/mobile
 
 - [ESMO](http://nepesamc.gabia.io/)  
 
