@@ -22,7 +22,7 @@
 
 - [mbc 아카데미 사이버 평생교육원](http://www.brstudy.net/main) 
 
-- [mbc 아카데미 원격 교육원](http://www.kedui.ne) 
+- [mbc 아카데미 원격 교육원](http://www.kedui.net) 
 
 // 접근성 가이드라인은 기타문서에 첨부하였습니다.
 
