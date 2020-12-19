@@ -3,14 +3,19 @@
 
 ###### Responsiv -
 
-========포트폴리오 모음페이지입니다. 클릭해주세요 =========
+======== 솔루션 작업 index 입니다. =========
 
-포트폴리오 원페이지 모음
-사용되는 거의 모든 javaScript는 플로그인 사용하지 않고 직접 제작 했습니다.
+- [weep](http://weep2020.cafe24.com/weep0514.html)  
 
-- [포트폴리오 원페이지 모음](https://box3101.github.io/portfolio/html/main.html) 
+- [이랜드 - 매드포갈릭 리뉴얼](http:/code.d2.co.kr/madforgarlic/app)   
 
-=======// 포트폴리오 모음페이지입니다. 클릭해주세요 ========
+- [동원홈푸드 - 더반찬 pass 기획전 (pc)](http://thebanchan7.cafe24.com/thebanchan/list/pc.html)  
+
+- [원홈푸드 - 더반찬 pass 기획전 (mo)](http://thebanchan7.cafe24.com/thebanchan/list/mo.html)  
+
+- [ebm센터](http://ebm2019.cafe24.com/ebmLists.php) - mobile
+
+- [짐핏솔루션](http://gymfit9.cafe24.com) pc/mobile
 
 
 ----------- 웹 접근성 인증------- (기존사이트에 접근성 작업만 진행했습니다.)
@@ -24,11 +29,16 @@
 
 ----------- //웹 접근성 인증-------
 
-- [weep](http://weep2020.cafe24.com/weep0514.html)   (진행중)
 
-- [ebm센터](http://ebm2019.cafe24.com/ebmLists.php) - mobile
+========포트폴리오 모음페이지입니다. 클릭해주세요 =========
 
-- [짐핏솔루션](http://gymfit9.cafe24.com) pc/mobile
+포트폴리오 원페이지 모음
+사용되는 거의 모든 javaScript는 플로그인 사용하지 않고 직접 제작 했습니다.
+
+- [포트폴리오 원페이지 모음](https://box3101.github.io/portfolio/html/main.html) 
+
+=======// 포트폴리오 모음페이지입니다. 클릭해주세요 ========
+
 
 - [ESMO](http://nepesamc.gabia.io/)  
 
