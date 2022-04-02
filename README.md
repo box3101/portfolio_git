@@ -9,14 +9,6 @@
 
 - [이랜드 - 매드포갈릭 리뉴얼](http:/code.d2.co.kr/madforgarlic/app)   
 
-- [동원홈푸드 - 더반찬 pass 기획전 (pc)](http://thebanchan7.cafe24.com/thebanchan/list/pc.html)  
-
-- [동원홈푸드 - 더반찬 pass 기획전 (mo)](http://thebanchan7.cafe24.com/thebanchan/list/mo.html)  
-
-- [ebm센터](http://ebm2019.cafe24.com/ebmLists.php) 
-
-- [짐핏솔루션](http://gymfit9.cafe24.com) pc/mobile (id: test00 / password: test00 ) - 작업내용 확인하실수 있습니다.
-
 
 ----------- 웹 접근성 인증------- (기존사이트에 접근성 작업만 진행했습니다.)
 
@@ -25,7 +17,6 @@
 - [mbc 아카데미 원격 교육원](http://www.kedui.net) 
 
 // 접근성 가이드라인은 기타문서에 첨부하였습니다.
-
 
 ----------- //웹 접근성 인증-------
 
